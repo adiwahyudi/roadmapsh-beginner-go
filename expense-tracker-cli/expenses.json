@@ -1,0 +1,1 @@
+{"expenses":[{"id":1,"category":"food","description":"snack","amount":100,"date":"2024-08-15T10:58:40.5849948+07:00"},{"id":2,"category":"clothing","description":"jacket from radityadika merch","amount":5000,"date":"2024-08-15T11:00:51.9626286+07:00"}],"budget":{"8":{"amount":-1,"totalExpenses":100}}}
